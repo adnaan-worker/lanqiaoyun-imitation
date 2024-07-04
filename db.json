@@ -1,0 +1,1399 @@
+{
+  "users": [
+    {
+      "id": "3861",
+      "username": "duyong",
+      "password": "123456"
+    }
+  ],
+  "indexBanner": [
+    {
+      "id": 0,
+      "img": "https://img.z4a.net/images/2024/06/10/1716272458271_5fbe31288b988543a4c59194910dd27f.png",
+      "title": "小白入门赛/强者挑战赛",
+      "subtitle": "05月31日 周六19:00-21:00 准时开赛！",
+      "backGround": "#857CFB"
+    },
+    {
+      "id": 1,
+      "img": "https://img.z4a.net/images/2024/06/10/1715738356833_208fdd5f67be75842e8f01c2c9a5c709.png",
+      "title": "蓝桥杯国赛全真模拟测试卷",
+      "subtitle": "05月31日 周六19:00-21:00 准时开赛！",
+      "backGround": "#F78B26"
+    },
+    {
+      "id": 2,
+      "img": "https://img.z4a.net/images/2024/06/10/1716542025298_b39fc49dcccba58ef6a18d38da5ce312.png",
+      "title": "15届蓝桥杯14天国特冲刺营",
+      "subtitle": "05月31日 周六19:00-21:00 准时开赛！",
+      "backGround": "#7BA2FF"
+    },
+    {
+      "id": 3,
+      "img": "https://img.z4a.net/images/2024/06/10/1714442662469_62454c7c10e36b3697f2b507a55e96df.png",
+      "title": "蓝桥杯5G全网规划与建设",
+      "subtitle": "05月31日 周六19:00-21:00 准时开赛！",
+      "backGround": "#02041D"
+    },
+    {
+      "id": 4,
+      "img": "https://img.z4a.net/images/2024/06/10/1716426251505_5c93224d64753b7c7051468fa528d78f.png",
+      "title": "夯实基础班:计算机408",
+      "subtitle": "05月31日 周六19:00-21:00 准时开赛！",
+      "backGround": "#29A2FF"
+    },
+    {
+      "id": 5,
+      "img": "https://img.z4a.net/images/2024/06/10/1712456317386_b53a6e64a822220813542d2b81ea86171.png",
+      "title": "蓝桥工业和信息化人才培养...",
+      "subtitle": "05月31日 周六19:00-21:00 准时开赛！",
+      "backGround": "#134BB7"
+    },
+    {
+      "id": 6,
+      "img": "https://img.z4a.net/images/2024/06/10/1716426419845_71a5ca1f4a1efc84a78e8114c44c862c.png",
+      "title": "软件设计师一站式通关班",
+      "subtitle": "05月31日 周六19:00-21:00 准时开赛！",
+      "backGround": "#092F93"
+    }
+  ],
+  "course_types": [
+    {
+      "id": 1,
+      "title": "Linux运维",
+      "subtypes": [
+        "Linux",
+        "CentOS",
+        "Ansible",
+        "Git",
+        "Nginx",
+        "SDN",
+        "Shell",
+        "计算机网络",
+        "Vim",
+        "Web Server"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Web前端开发",
+      "subtypes": [
+        "HTML",
+        "Node.js",
+        "Flutter",
+        "微信小程序",
+        "Element UI",
+        "uniapp",
+        "Less",
+        "JavaScript",
+        "ECharts",
+        "Axios",
+        "jQuery",
+        "Vuex",
+        "Express",
+        "React",
+        "Vue Router",
+        "Zepto.js",
+        "TypeScript",
+        "Redux",
+        "Jest",
+        "Bootstrap",
+        "Vue.js",
+        "React Router",
+        "Unity",
+        "CSS"
+      ]
+    },
+    {
+      "title": "后端开发",
+      "subtypes": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "区块链",
+        "PHP",
+        "Rust",
+        "Pygame",
+        "Flask",
+        "Qt",
+        "Laravel",
+        "OpenGL",
+        "ThinkPHP",
+        "Lua",
+        "Go",
+        "爬虫",
+        "Ruby",
+        "Django"
+      ]
+    },
+    {
+      "title": "信息安全",
+      "subtypes": [
+        "Web安全",
+        "网络安全",
+        "渗透测试",
+        "系统安全",
+        "安全开发",
+        "密码学"
+      ]
+    },
+    {
+      "title": "数据库",
+      "subtypes": [
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "NoSQL",
+        "Oracle",
+        "PostgreSQL",
+        "SQL",
+        "Neo4j"
+      ]
+    },
+    {
+      "title": "计算机专业课",
+      "subtypes": [
+        "MATLAB",
+        "数据结构",
+        "大学公开课",
+        "计算机考研",
+        "操作系统",
+        "算法",
+        "蓝桥杯",
+        "设计模式",
+        "ROS",
+        "软件测试",
+        "书籍配套实验",
+        "CEP"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "15 届蓝桥杯14天国特冲刺营",
+      "picture_url": "https://img.z4a.net/images/2024/06/10/1713434265707_2aaf1ffd01b96ffebca4f1405757b7d1.png",
+      "students_count": 519,
+      "fee_type": "bootcamp",
+      "price": 399,
+      "real_price": 249,
+      "level": "中级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "recommend": 1,
+      "tags": [
+        "蓝桥杯",
+        "数据结构",
+        "算法"
+      ],
+      "points": [
+        "线性DP",
+        "状压DP",
+        "树形DP",
+        "数位DP",
+        "数论定理",
+        "筛法",
+        "组合数学",
+        "KMP算法",
+        "字符串哈希",
+        "线段树",
+        "树状数组",
+        "分块",
+        "ST表",
+        "最小生成树",
+        "LCA算法"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "15届蓝桥杯备赛公开课回放",
+      "recommend": 1,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/uid734839-20231020-1697788181740.png",
+      "students_count": 28462,
+      "fee_type": "free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "蓝桥杯"
+      ],
+      "points": [
+        "C++",
+        "Java",
+        "Python",
+        "JavaScript",
+        "C#",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript",
+        "Scala"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "新手入门指南之玩转蓝桥云课",
+      "recommend": 1,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211217-1639724433719.png",
+      "students_count": 479771,
+      "fee_type": "free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "新手入门"
+      ],
+      "points": [
+        "Linux",
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Linux 基础入门",
+      "recommend": 1,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/1638351889148_68975725dd46a9adfd750384dc06e9ad.png",
+      "students_count": 397955,
+      "fee_type": "free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Linux",
+        "基础入门",
+        "新手入门"
+      ],
+      "points": [
+        "Linux",
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "oeasy 教您玩转 python",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/1642383644527_a8307857e9d44f990f5f6263c74c28d0.png",
+      "students_count": 32399,
+      "fee_type": "free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Python"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "C++ 基础入门实战",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211217-1639724509652.png",
+      "students_count": 19165,
+      "fee_type": "limit_free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "C++",
+        "入门实战"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "机器学习开放基础课程",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211229-1640771206607.png",
+      "students_count": 20760,
+      "fee_type": "free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "机器学习",
+        "Python"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Django 基础入门",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211217-1639724416464.png",
+      "students_count": 23716,
+      "fee_type": "limit_free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Python",
+        "Django",
+        "基础入门"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Python 新手入门课",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211217-1639724495831.png",
+      "students_count": 122020,
+      "fee_type": "free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Python",
+        "新手入门"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "C++ 从零实现 NoSQL 数据库",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211217-1639724497403.png",
+      "students_count": 1540,
+      "fee_type": "bootcamp",
+      "price": 199,
+      "real_price": 69,
+      "level": "中级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "C++",
+        "NoSQL"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Effective Java 中文版（第 3 版）",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211222-1640137064140.png",
+      "students_count": 582,
+      "fee_type": "bootcamp",
+      "price": 199,
+      "real_price": 143,
+      "level": 3,
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "书籍配套实验",
+        "Java"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "玩转 Node.js 开发",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/uid1701267-20220119-1642554851536.png",
+      "students_count": 427,
+      "fee_type": "bootcamp",
+      "price": 199,
+      "real_price": 89,
+      "level": "中级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Node.js"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Django 框架基础",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/1641257827972_b00b3e72eba66a5e1177a7d2c5257df1.png",
+      "students_count": 393,
+      "fee_type": "bootcamp",
+      "price": 199,
+      "real_price": 98,
+      "level": "中级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Django",
+        "Python"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "微信公众号开发入门",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/1640309725756_9baa3cd144340213f1635c4403f99270.png",
+      "students_count": 629,
+      "fee_type": "bootcamp",
+      "price": 199,
+      "real_price": 3900,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "微信小程序"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "知识图谱构建射雕三部曲人物关系",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211217-1639724498975.png",
+      "students_count": 1258,
+      "fee_type": "bootcamp",
+      "price": 199,
+      "real_price": 99,
+      "level": "中级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Python",
+        "机器学习",
+        "NLP"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ansible 基础入门",
+      "recommend": 0,
+      "picture_url": "https://img.z4a.net/images/2024/06/10/byscript-20211217-1639724431586.png",
+      "students_count": 1468,
+      "fee_type": "limit_free",
+      "price": 0,
+      "real_price": 0,
+      "level": "初级",
+      "comments_count": 1,
+      "average_score": 9.2,
+      "updated_time": "2023-05-31T07:00:00.000Z",
+      "tags": [
+        "Linux",
+        "Ansible",
+        "基础入门"
+      ],
+      "points": [
+        "Python",
+        "Java",
+        "C++",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Go",
+        "Ruby",
+        "Swift",
+        "Rust",
+        "Kotlin",
+        "Objective-C",
+        "TypeScript"
+      ]
+    }
+  ],
+  "popular_courses": [
+    {
+      "id": 1,
+      "name": "春招急救指南",
+      "content": [
+        {
+          "id": 1,
+          "bg": "popular1.png",
+          "title": "春招急救指南：前端开发",
+          "info": "课程将对前端开发工程师在面试中遇到的问题逐一展开讲解，内容涵盖 HTML 及 CSS 基础到前端主流的 Vue / React 框架，总结前端面试中的常见知识点，同时提升应聘者的面试成功率（课程还包括如何与 HR 谈薪拿 offer)。",
+          "level": "初级",
+          "num": 454,
+          "vip": 1
+        },
+        {
+          "id": 2,
+          "bg": "popular2.png",
+          "title": "春招急救指南：Java 开发",
+          "info": " 春招在即，本课程教你3天搞定一份完美简历。Java 面试的第一轮和第二轮往往会以基础知识点为主，面试官通过问Java 基础、Java 虚拟机、Java 多线程、Java 框架以及 MySQL 等常见面试知识点，来考察应聘者的基础能力，这两轮的面试结果会极大地影响最终的面试结果。本次课程的目的是通过总结 Java 面试中的常见知识点，提升应聘者的面试成功率。",
+          "level": "中级",
+          "num": 642,
+          "vip": 1
+        },
+        {
+          "id": 3,
+          "bg": "popular3.png",
+          "title": "春招急救指南：Python 开发",
+          "info": "春招在即，本课程教你3天搞定一份完美简历。Python 面试的第一轮和第二轮往往会以基础知识点为主，面试官通过问Python 基础、Python 虚拟机、Python 多线程、Python 框架以及 MySQL 等常见面试知识点，来考察应聘者的基础能力，这两轮的面 试结果会极大地影响最终的面试结果。本次课程的目的是通过总结 Python 面试中的常见知识点，提升应聘者的面试成功率。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        },
+        {
+          "id": 4,
+          "bg": "popular4.png",
+          "title": "春招急救指南：JavaScript 开发",
+          "info": "春招在即，本课程教你3天搞定一份完美简历。JavaScript 面试的第一轮和第二轮往往会以基础知识点为主，面试官通过问JavaScript 基础、JavaScript 虚拟机、JavaScript 多线程、JavaScript 框架以及 MySQL 等常见面试知识点，来考察应聘者的基础能力，这两轮的面 试结果会极大地影响最终的面试结果。本次课程的目的是通过总结 JavaScript 面试中的常见知识点，提升应聘者的面试成功率。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        },
+        {
+          "id": 5,
+          "bg": "popular5.png",
+          "title": "算法工程师面试通关营",
+          "info": "算法工程师面试通关营，通过算法面试的技巧和技巧，让你通过算法面试，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        },
+        {
+          "id": 6,
+          "bg": "popular6.png",
+          "title": "前端工程师面试通关营",
+          "info": "前端工程师面试通关营，通过前端面试的技巧和技巧，让你通过前端面试，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Linux运维",
+      "content": [
+        {
+          "id": 1,
+          "bg": "popular7.png",
+          "title": "Linux 基础入门",
+          "info": "Linux 基础入门，通过基础入门，让你通过 Linux 基础入门，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        },
+        {
+          "id": 2,
+          "bg": "popular8.png",
+          "title": "Linux 基础进阶",
+          "info": "Linux 基础进阶，通过基础进阶，让你通过 Linux 基础进阶，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Web前端开发",
+      "content": [
+        {
+          "id": 1,
+          "bg": "popular9.png",
+          "title": "HTML5+CSS3",
+          "info": "HTML5+CSS3，通过基础入门，让你通过 HTML5+CSS3，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        },
+        {
+          "id": 2,
+          "bg": "popular10.png",
+          "title": "JavaScript",
+          "info": "JavaScript，通过基础入门，让你通过 JavaScript，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "后端开发",
+      "content": [
+        {
+          "id": 1,
+          "bg": "popular1.png",
+          "title": "Java",
+          "info": "Java，通过基础入门，让你通过 Java，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        },
+        {
+          "id": 2,
+          "bg": "popular2.png",
+          "title": "Python",
+          "info": "Python，通过基础入门，让你通过 Python，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "信息安全",
+      "content": [
+        {
+          "id": 1,
+          "bg": "popular1.png",
+          "title": "信息安全",
+          "info": "信息安全，通过基础入门，让你通过 安全性，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "人工智能",
+      "content": [
+        {
+          "id": 1,
+          "bg": "popular1.png",
+          "title": "人工智能",
+          "info": "人工智能，通过基础入门，让你通过 人工智能，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "408考研",
+      "content": [
+        {
+          "id": 1,
+          "bg": "popular1.png",
+          "title": "408考研",
+          "info": "408考研，通过基础入门，让你通过 408考研，轻松拿到offer。",
+          "level": "高级",
+          "num": 123,
+          "vip": 1
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "category": "前端开发",
+      "jobs": [
+        {
+          "id": 1,
+          "pic": "Job-Web",
+          "title": "Web前端开发工程师",
+          "description": "在用户终端产品与视觉和交互领域，运用 HTML、CSS、JavaScript 等专业技能和工具，从事产品研发的专业技术人员。 ",
+          "averageSalary": 20836,
+          "median": 19385,
+          "proportion": [
+            4,
+            16,
+            21,
+            19,
+            18,
+            10,
+            12
+          ],
+          "avgMonthSalary": [
+            6250,
+            14585,
+            22919,
+            27086
+          ],
+          "jobContent": [
+            "负责前端项目框架、架构的设计和开发；",
+            "解决前端开发流程中的各种痛点，攻克技术难关，改进和优化开发流程、工具和架构；",
+            "持续优化项目技术、保证代码质量和服务稳定、提升用户体验；",
+            "跟踪新技术发展并运用到实际项目中。"
+          ],
+          "jobSkills": [
+            "编程语言：HTML，CSS，Javascript",
+            "常用框架：React，Vue，Express，Koa，JQuery，Echarts，Bootstrap",
+            "数据库和中间件：Redis，MongoDB，MySQL，Nginx",
+            "操作系统：Linux",
+            "原生技术：TypeScript，Webpack，ES6"
+          ]
+        },
+        {
+          "id": 2,
+          "pic": "Job-Mobile",
+          "title": "移动应用开发工程师",
+          "description": "移动应用开发也称为手机应用开发，或叫做移动互联网开发。",
+          "averageSalary": 18000,
+          "median": 17000,
+          "proportion": [
+            3,
+            12,
+            18,
+            20,
+            23,
+            10,
+            14
+          ],
+          "avgMonthSalary": [
+            5500,
+            13000,
+            20000,
+            25000
+          ],
+          "jobContent": [
+            "负责iOS/Android移动应用的设计、开发及维护；",
+            "优化应用性能，提升用户体验；",
+            "与产品经理和设计师紧密合作，实现产品功能；",
+            "跟踪移动开发的新趋势和技术。"
+          ],
+          "jobSkills": [
+            "编程语言：Swift/Kotlin, Java, JavaScript",
+            "框架：React Native, Flutter, Xamarin",
+            "理解移动应用生命周期和UI/UX设计原则",
+            "熟悉iOS/Android SDK及发布流程"
+          ]
+        },
+        {
+          "id": 3,
+          "pic": "Job-Quanzhan",
+          "title": "全栈开发工程师",
+          "description": "全栈开发工程师负责设计、开发和维护前后端应用程序，具备前端和后端开发技能。",
+          "averageSalary": 28000,
+          "median": 26500,
+          "proportion": [
+            3,
+            10,
+            15,
+            20,
+            25,
+            15,
+            12
+          ],
+          "avgMonthSalary": [
+            7500,
+            19000,
+            27000,
+            33000
+          ],
+          "jobContent": [
+            "负责整个应用的架构设计和开发；",
+            "协调前端和后端工作，确保项目进度；",
+            "优化系统性能，确保高可用性；",
+            "持续学习和应用新的技术和工具。"
+          ],
+          "jobSkills": [
+            "编程语言：JavaScript, Python, Java, 或其他后端语言",
+            "前端框架：React, Vue, Angular",
+            "后端框架：Node.js, Django, Flask, Spring Boot",
+            "数据库管理：MySQL, PostgreSQL, MongoDB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "后端开发",
+      "jobs": [
+        {
+          "id": 4,
+          "pic": "Job-C++",
+          "title": "C/C++ 开发工程师",
+          "description": "以 C/C++ 语言为主要语言进行软件开发的技术工程人员。",
+          "averageSalary": 22000,
+          "median": 20500,
+          "proportion": [
+            2,
+            10,
+            15,
+            20,
+            25,
+            15,
+            13
+          ],
+          "avgMonthSalary": [
+            6000,
+            15000,
+            22000,
+            28000
+          ],
+          "jobContent": [
+            "负责高性能服务器端应用的开发；",
+            "优化代码，提高系统性能和稳定性；",
+            "参与系统架构设计；",
+            "编写单元测试，确保代码质量。"
+          ],
+          "jobSkills": [
+            "精通C/C++，了解其内存管理和多线程机制",
+            "熟悉网络编程、多线程编程",
+            "了解常见的数据结构和算法",
+            "有Linux环境开发经验"
+          ]
+        },
+        {
+          "id": 5,
+          "pic": "Job-Java",
+          "title": "Java 开发工程师",
+          "description": "运用 Java 技术，从事软件程序设计、开发、测试、维护升级等工作的专业技术人员。",
+          "averageSalary": 26000,
+          "median": 24500,
+          "proportion": [
+            4,
+            12,
+            18,
+            22,
+            25,
+            15,
+            14
+          ],
+          "avgMonthSalary": [
+            7000,
+            18000,
+            25000,
+            31000
+          ],
+          "jobContent": [
+            "负责Java应用的开发和维护；",
+            "参与系统设计和架构优化；",
+            "编写单元测试，保证代码质量；",
+            "解决生产环境中出现的问题。"
+          ],
+          "jobSkills": [
+            "精通Java SE/EE，了解JVM原理",
+            "熟悉Spring Boot, Hibernate, MyBatis等框架",
+            "数据库操作：MySQL, Oracle, PostgreSQL",
+            "了解微服务架构和容器化技术（Docker, Kubernetes）"
+          ]
+        },
+        {
+          "id": 6,
+          "pic": "Job-Python",
+          "title": "Python 开发工程师",
+          "description": "Python 是一种计算机程序设计语言，具有简单易读的语法。",
+          "averageSalary": 24000,
+          "median": 22500,
+          "proportion": [
+            5,
+            15,
+            20,
+            22,
+            25,
+            13,
+            10
+          ],
+          "avgMonthSalary": [
+            6500,
+            17000,
+            24000,
+            30000
+          ],
+          "jobContent": [
+            "使用Python进行业务逻辑开发；",
+            "编写自动化脚本和工具；",
+            "参与数据分析和机器学习项目；",
+            "与其他团队协作，确保项目成功。"
+          ],
+          "jobSkills": [
+            "熟练掌握Python基础和高级特性",
+            "了解Django, Flask等Web框架",
+            "数据分析库：Pandas, NumPy, Matplotlib",
+            "了解API接口开发和RESTful规范"
+          ]
+        },
+        {
+          "id": 7,
+          "pic": "Job-PHP",
+          "title": "PHP 开发工程师",
+          "description": "PHP 是一种通用开源脚本语言，可嵌入到 HTML 中。",
+          "averageSalary": 20000,
+          "median": 19000,
+          "proportion": [
+            6,
+            16,
+            18,
+            20,
+            22,
+            12,
+            16
+          ],
+          "avgMonthSalary": [
+            5500,
+            15000,
+            21000,
+            27000
+          ],
+          "jobContent": [
+            "使用PHP开发Web应用；",
+            "优化代码，提高网站性能；",
+            "与前端开发协作，实现动态功能；",
+            "参与数据库设计和优化。"
+          ],
+          "jobSkills": [
+            "精通PHP语言，了解Laravel, Symfony等框架",
+            "了解MySQL数据库设计和优化",
+            "熟悉HTML, CSS, JavaScript",
+            "了解版本控制工具如Git"
+          ]
+        },
+        {
+          "id": 8,
+          "pic": "Job-Golang",
+          "title": "Golang 开发工程师",
+          "description": "Go 是一种静态强类型、编译型、并发型、静态可分析型、垃圾回收型编程语言。",
+          "averageSalary": 23000,
+          "median": 21500,
+          "proportion": [
+            4,
+            14,
+            18,
+            20,
+            23,
+            12,
+            9
+          ],
+          "avgMonthSalary": [
+            6500,
+            17000,
+            23000,
+            29000
+          ],
+          "jobContent": [
+            "使用Go语言开发高效后端服务；",
+            "参与微服务架构设计；",
+            "优化系统性能，保证服务稳定性；",
+            "了解并应用Go的并发模型。"
+          ],
+          "jobSkills": [
+            "精通Go语言，了解其并发和内存管理",
+            "了解gRPC, RESTful API设计",
+            "熟悉Docker和Kubernetes",
+            "数据库操作：MySQL, Postgres, etcd等"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "测试运维",
+      "jobs": [
+        {
+          "id": 9,
+          "pic": "Job-软件测试",
+          "title": "软件测试工程师",
+          "description": "负责软件产品的测试工作，确保软件质量。",
+          "averageSalary": 16000,
+          "median": 15000,
+          "proportion": [
+            5,
+            15,
+            20,
+            25,
+            20,
+            10,
+            5
+          ],
+          "avgMonthSalary": [
+            4500,
+            12000,
+            18000,
+            24000
+          ],
+          "jobContent": [
+            "制定测试计划，设计和执行测试用例；",
+            "进行功能测试、性能测试、压力测试等；",
+            "编写自动化测试脚本，提高测试效率；",
+            "分析测试结果，提交缺陷报告。"
+          ],
+          "jobSkills": [
+            "熟悉软件测试理论和方法论",
+            "掌握至少一种自动化测试工具（如Selenium）",
+            "了解数据库操作，能进行SQL查询",
+            "良好的问题定位和分析能力"
+          ]
+        },
+        {
+          "id": 10,
+          "pic": "Job-运维",
+          "title": "运维工程师",
+          "description": "负责维护和保障软件系统的稳定运行。",
+          "averageSalary": 22000,
+          "median": 20500,
+          "proportion": [
+            5,
+            12,
+            18,
+            20,
+            22,
+            12,
+            11
+          ],
+          "avgMonthSalary": [
+            6000,
+            15000,
+            21000,
+            27000
+          ],
+          "jobContent": [
+            "配置和管理服务器集群；",
+            "监控系统性能，处理故障；",
+            "自动化运维流程；",
+            "实施备份和恢复策略。"
+          ],
+          "jobSkills": [
+            "熟悉Linux操作系统和Shell脚本",
+            "了解网络基础和TCP/IP协议",
+            "掌握自动化工具如Ansible, Puppet",
+            "了解Docker和Kubernetes"
+          ]
+        },
+        {
+          "id": 11,
+          "pic": "Job-实施工程师",
+          "title": "实施工程师",
+          "description": "负责软件产品的实施工作，确保顺利交付给客户。",
+          "averageSalary": 18000,
+          "median": 17000,
+          "proportion": [
+            6,
+            15,
+            18,
+            20,
+            19,
+            12,
+            10
+          ],
+          "avgMonthSalary": [
+            5000,
+            14000,
+            20000,
+            26000
+          ],
+          "jobContent": [
+            "负责软件部署和配置；",
+            "为客户进行培训和指导；",
+            "解决实施过程中的问题；",
+            "编写实施文档和用户手册。"
+          ],
+          "jobSkills": [
+            "了解软件安装和配置流程",
+            "良好的沟通和客户服务技巧",
+            "熟悉项目管理工具",
+            "了解数据库管理和系统集成"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "前沿技术",
+      "jobs": [
+        {
+          "id": 12,
+          "pic": "Job-大数据",
+          "title": "大数据开发工程师",
+          "description": "负责大数据系统的开发工作。",
+          "averageSalary": 25000,
+          "median": 23500,
+          "proportion": [
+            1,
+            5,
+            12,
+            20,
+            30,
+            20,
+            12
+          ],
+          "avgMonthSalary": [
+            8000,
+            18000,
+            26000,
+            32000
+          ],
+          "jobContent": [
+            "参与大数据平台的设计与搭建；",
+            "开发数据处理和分析模块；",
+            "优化数据存储和查询性能；",
+            "监控系统运行状态，确保数据安全。"
+          ],
+          "jobSkills": [
+            "熟悉Hadoop、Spark等大数据处理框架",
+            "掌握SQL及NoSQL数据库（如HBase, MongoDB）",
+            "了解数据挖掘和机器学习算法",
+            "具备Java/Python编程能力"
+          ]
+        },
+        {
+          "id": 13,
+          "pic": "Job-机器学习",
+          "title": "机器学习工程师",
+          "description": "负责机器学习系统的开发工作。",
+          "averageSalary": 30000,
+          "median": 28000,
+          "proportion": [
+            2,
+            8,
+            15,
+            20,
+            25,
+            15,
+            15
+          ],
+          "avgMonthSalary": [
+            7500,
+            19000,
+            27000,
+            33000
+          ],
+          "jobContent": [
+            "构建和训练机器学习模型；",
+            "数据预处理和特征工程；",
+            "优化模型性能，解决过拟合问题；",
+            "将模型部署到生产环境。"
+          ],
+          "jobSkills": [
+            "熟悉Python和TensorFlow, PyTorch等框架",
+            "了解统计学和概率论",
+            "机器学习算法：SVM, RF, LSTM等",
+            "数据可视化工具：Matplotlib, Seaborn"
+          ]
+        },
+        {
+          "id": 14,
+          "pic": "Job-物联网",
+          "title": "物联网工程师",
+          "description": "负责物联网系统的开发工作。",
+          "averageSalary": 26000,
+          "median": 24500,
+          "proportion": [
+            4,
+            10,
+            15,
+            20,
+            25,
+            15,
+            11
+          ],
+          "avgMonthSalary": [
+            7000,
+            17000,
+            24000,
+            30000
+          ],
+          "jobContent": [
+            "设计和开发物联网硬件和软件；",
+            "集成传感器和设备，实现数据采集；",
+            "构建物联网云平台；",
+            "确保数据安全和隐私保护。"
+          ],
+          "jobSkills": [
+            "熟悉嵌入式系统和编程语言（如C, C++, Python）",
+            "了解物联网通信协议（如MQTT, CoAP）",
+            "熟悉物联网平台（如AWS IoT, Azure IoT Hub）",
+            "硬件知识，如电路设计和传感器操作"
+          ]
+        }
+      ]
+    }
+  ]
+}

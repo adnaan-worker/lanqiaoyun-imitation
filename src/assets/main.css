@@ -1,0 +1,39 @@
+/* @import './base.css'; */
+
+h1,h2,h3,h4,h5,h6,body,p,ul,form,dl,dd,dt{
+  padding: 0;
+  margin: 0;
+}
+a,a:visited{
+  text-decoration: none;
+  color: #000;
+}
+ul,ol,li{
+  list-style:none;
+}
+img{
+  display: block;
+  border: none;
+}
+*,
+:after,
+:before {
+  box-sizing:border-box
+}
+
+body{
+  min-width: 960px;
+  max-width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+:root{
+  /* header start */
+  --nav-text-color: hsla(0, 0%, 100%, .702);
+  --nav-hover-color: #fff;
+  --nav-active-color: #fff;
+  --nav-search-bg-color: rgba(0, 0, 0, .251);
+  --nav-login-text-color: #fff;
+  /* header end */
+}

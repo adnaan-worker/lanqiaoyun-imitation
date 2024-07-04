@@ -1,0 +1,44 @@
+{
+  "id": "4572672",
+  "name": "vue3",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22591557",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "30264845",
+      "name": "蓝桥杯",
+      "font_class": "lanqiaobei",
+      "unicode": "e896",
+      "unicode_decimal": 59542
+    },
+    {
+      "icon_id": "30264848",
+      "name": "竞赛",
+      "font_class": "jingsai",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "35111003",
+      "name": "实战课",
+      "font_class": "shizhanke",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "35111004",
+      "name": "实训营",
+      "font_class": "shixunying",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    }
+  ]
+}
