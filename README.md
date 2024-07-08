@@ -1,29 +1,33 @@
-# duyong
+# Vue3仿蓝桥云
 
-This template should help get you started developing with Vue 3 in Vite.
+#### 介绍
+Vue3+element-plus仿蓝桥云课前端，json-server模拟数据
 
-## Recommended IDE Setup
+#### 软件架构
+Vue3+element-plus+vue-router+axios+pinia+echarts
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+#### 安装教程
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1.  安装依赖 `npm install`
+2.  启动json-server  `json-server --watch db.json`
+3.  启动项目 `npm run dev`
 
-## Project Setup
+#### 项目运行效果
 
-```sh
-npm install
-```
+![输入图片说明](https://foruda.gitee.com/images/1718093363550209397/ffadbfb5_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093375142302461/6f62592f_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093383916522632/d26fd30a_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093393725705096/119a875f_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093402623101103/8f7eb7d2_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093411361562530/641a2d13_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093418775278190/841c3767_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093426979832714/fca16259_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093436221152752/92352e0c_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093450112180806/d333d97a_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093456935333087/ff43278f_5352827.png "屏幕截图")
+![输入图片说明](https://foruda.gitee.com/images/1718093466785888167/e213c922_5352827.png "屏幕截图")
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+#### 作者
+adnaan
+email:1662877157@qq.com
